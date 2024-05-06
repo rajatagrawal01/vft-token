@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.4.8",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
+    "truffle-plugin-verify": "^0.5.19"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0"
+  }
+}
